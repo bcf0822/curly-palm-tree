@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>柏长甫的个人网页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>柏长甫 (BAI CHANGFU)</h1>
+            <p>大学学士</p>
+        </header>
+
+        <div class="section contact-info">
+            <h2>联系方式</h2>
+            <p>中国号码: 18881286673</p>
+            <p>韩国号码: 01065877822</p>
+            <p>邮箱: <a href="mailto:baichangf@sina.com">baichangf@sina.com</a> / <a href="mailto:baichangfu@gmail.com">baichangfu@gmail.com</a></p>
+        </div>
+
+        <div class="section education">
+            <h2>学习经历</h2>
+            <p>2014-2020: 四川省广元外国语学校</p>
+            <p>2020-至今: 韩国延世大学 (YONSEI UNIVERSITY)</p>
+        </div>
+
+        <div class="section research">
+            <h2>研究领域</h2>
+            <p>政治外交与国际关系—中美关系</p>
+        </div>
+    </div>
+</body>
+</html>
